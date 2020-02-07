@@ -10,6 +10,9 @@ https://www.acmicpc.net/
 1002번
 https://www.acmicpc.net/problem/1002
 
+1003번
+https://www.acmicpc.net/problem/1002
+
 1004번
 https://www.acmicpc.net/problem/1004
 
