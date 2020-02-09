@@ -19,6 +19,9 @@ https://www.acmicpc.net/problem/1004
 1110번
 https://www.acmicpc.net/problem/1110
 
+1546번
+https://www.acmicpc.net/problem/1546
+
 2438번
 https://www.acmicpc.net/problem/2438
 
