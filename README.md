@@ -7,11 +7,14 @@ https://www.acmicpc.net/
 ## 풀이
 브랜치에 b_(문제번호) 이름으로 패키지가 정리되었습니다.
 
+1000번
+https://www.acmicpc.net/problem/1000
+
 1002번
 https://www.acmicpc.net/problem/1002
 
 1003번
-https://www.acmicpc.net/problem/1002
+https://www.acmicpc.net/problem/1003
 
 1004번
 https://www.acmicpc.net/problem/1004
