@@ -25,6 +25,9 @@ https://www.acmicpc.net/problem/1004
 1008번
 https://www.acmicpc.net/problem/1008
 
+1065번
+https://www.acmicpc.net/problem/1065
+
 1110번
 https://www.acmicpc.net/problem/1110
 
@@ -45,6 +48,9 @@ https://www.acmicpc.net/problem/1546
 
 1712번
 https://www.acmicpc.net/problem/1712
+
+2292번
+https://www.acmicpc.net/problem/2292
 
 2438번
 https://www.acmicpc.net/problem/2438
@@ -76,6 +82,9 @@ https://www.acmicpc.net/problem/2741
 2753번
 https://www.acmicpc.net/problem/2753
 
+2839번
+https://www.acmicpc.net/problem/2839
+
 2884번
 https://www.acmicpc.net/problem/2884
 
@@ -96,6 +105,9 @@ https://www.acmicpc.net/problem/8958
 
 4344번
 https://www.acmicpc.net/problem/4344
+
+4673번
+https://www.acmicpc.net/problem/4673
 
 5622번
 https://www.acmicpc.net/problem/5622
