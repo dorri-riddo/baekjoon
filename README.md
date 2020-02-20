@@ -37,6 +37,9 @@ https://www.acmicpc.net/problem/1152
 1157번
 https://www.acmicpc.net/problem/1157
 
+1193번
+https://www.acmicpc.net/problem/1193
+
 1316번
 https://www.acmicpc.net/problem/1316
 
