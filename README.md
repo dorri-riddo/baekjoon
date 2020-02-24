@@ -127,9 +127,6 @@ https://www.acmicpc.net/problem/3009
 3052번
 https://www.acmicpc.net/problem/3052
 
-3052번
-https://www.acmicpc.net/problem/8958
-
 3053번
 https://www.acmicpc.net/problem/3053
 
@@ -150,6 +147,9 @@ https://www.acmicpc.net/problem/5622
 
 8393번
 https://www.acmicpc.net/problem/8393
+
+8958번
+https://www.acmicpc.net/problem/8958
 
 9020번
 https://www.acmicpc.net/problem/9020
