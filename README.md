@@ -226,6 +226,9 @@ https://www.acmicpc.net/problem/11718
 11720번
 https://www.acmicpc.net/problem/11720
 
+11729번
+https://www.acmicpc.net/problem/11729
+
 15552번
 https://www.acmicpc.net/problem/15552
 
