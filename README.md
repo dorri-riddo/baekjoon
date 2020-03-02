@@ -1,7 +1,6 @@
 # baekjoon
 백준 알고리즘 및 코드 풀이
 
-https://www.acmicpc.net/user/vision929
 
 ## 알고리즘 및 코드 문제 출처 
 https://www.acmicpc.net/
@@ -29,6 +28,9 @@ https://www.acmicpc.net/problem/1008
 
 1011번
 https://www.acmicpc.net/problem/1011
+
+1018번
+https://www.acmicpc.net/problem/1018
 
 1065번
 https://www.acmicpc.net/problem/1065
@@ -68,6 +70,9 @@ https://www.acmicpc.net/problem/1929
 
 1978번
 https://www.acmicpc.net/problem/1978
+
+2023
+https://www.acmicpc.net/problem/2023
 
 2231번
 https://www.acmicpc.net/problem/2231
@@ -284,3 +289,12 @@ https://www.acmicpc.net/problem/15596
 
 17478번
 https://www.acmicpc.net/problem/17478
+
+10990번
+https://www.acmicpc.net/problem/10990
+
+10991번
+https://www.acmicpc.net/problem/10991
+
+10992번
+https://www.acmicpc.net/problem/10992
