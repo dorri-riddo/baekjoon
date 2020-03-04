@@ -71,7 +71,7 @@ https://www.acmicpc.net/problem/1929
 1978번
 https://www.acmicpc.net/problem/1978
 
-2023
+2023번
 https://www.acmicpc.net/problem/2023
 
 2231번
