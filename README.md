@@ -41,6 +41,9 @@ https://www.acmicpc.net/problem/1085
 1110번
 https://www.acmicpc.net/problem/1110
 
+1149번
+https://www.acmicpc.net/problem/1149
+
 1152번
 https://www.acmicpc.net/problem/1152
 
@@ -157,6 +160,9 @@ https://www.acmicpc.net/problem/2741
 
 2743번
 https://www.acmicpc.net/problem/2743
+
+2747번
+https://www.acmicpc.net/problem/2747
 
 2753번
 https://www.acmicpc.net/problem/2753
@@ -281,6 +287,12 @@ https://www.acmicpc.net/problem/10951
 10952번
 https://www.acmicpc.net/problem/10952
 
+10984번
+https://www.acmicpc.net/problem/10984
+
+10988번
+https://www.acmicpc.net/problem/10988
+
 10990번
 https://www.acmicpc.net/problem/10990
 
@@ -290,6 +302,9 @@ https://www.acmicpc.net/problem/10991
 10992번
 https://www.acmicpc.net/problem/10992
 
+10996번
+https://www.acmicpc.net/problem/10996
+
 10998번
 https://www.acmicpc.net/problem/10998
 
@@ -298,6 +313,9 @@ https://www.acmicpc.net/problem/11021
 
 11022번
 https://www.acmicpc.net/problem/11022
+
+11050번
+https://www.acmicpc.net/problem/11050
 
 11654번
 https://www.acmicpc.net/problem/11654
@@ -311,8 +329,14 @@ https://www.acmicpc.net/problem/11719
 11720번
 https://www.acmicpc.net/problem/11720
 
+11726번
+https://www.acmicpc.net/problem/11726
+
 11729번
 https://www.acmicpc.net/problem/11729
+
+14624번
+https://www.acmicpc.net/problem/14624
 
 15552번
 https://www.acmicpc.net/problem/15552
@@ -331,6 +355,12 @@ https://www.acmicpc.net/problem/16394
 
 16561번
 https://www.acmicpc.net/problem/16561
+
+16673번
+https://www.acmicpc.net/problem/16673
+
+17173번
+https://www.acmicpc.net/problem/17173
 
 17478번
 https://www.acmicpc.net/problem/17478
