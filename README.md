@@ -53,11 +53,17 @@ https://www.acmicpc.net/problem/1157
 1193번
 https://www.acmicpc.net/problem/1193
 
+1292번
+https://www.acmicpc.net/problem/1292
+
 1316번
 https://www.acmicpc.net/problem/1316
 
 1330번
 https://www.acmicpc.net/problem/1330
+
+1427번
+https://www.acmicpc.net/problem/1427
 
 1436번
 https://www.acmicpc.net/problem/1436
@@ -307,6 +313,9 @@ https://www.acmicpc.net/problem/10984
 
 10988번
 https://www.acmicpc.net/problem/10988
+
+10989번
+https://www.acmicpc.net/problem/10989
 
 10990번
 https://www.acmicpc.net/problem/10990
