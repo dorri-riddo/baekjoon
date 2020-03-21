@@ -32,6 +32,9 @@ https://www.acmicpc.net/problem/1011
 1018번
 https://www.acmicpc.net/problem/1018
 
+1026번
+https://www.acmicpc.net/problem/1026
+
 1065번
 https://www.acmicpc.net/problem/1065
 
@@ -106,6 +109,9 @@ https://www.acmicpc.net/problem/1978
 
 2023번
 https://www.acmicpc.net/problem/2023
+
+2108번
+https://www.acmicpc.net/problem/2108
 
 2231번
 https://www.acmicpc.net/problem/2231
