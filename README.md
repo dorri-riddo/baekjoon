@@ -35,6 +35,9 @@ https://www.acmicpc.net/problem/1018
 1026번
 https://www.acmicpc.net/problem/1026
 
+1032번
+https://www.acmicpc.net/problem/1032
+
 1065번
 https://www.acmicpc.net/problem/1065
 
@@ -412,6 +415,9 @@ https://www.acmicpc.net/problem/15552
 
 15596번
 https://www.acmicpc.net/problem/15596
+
+15649번
+https://www.acmicpc.net/problem/15649
 
 15680번
 https://www.acmicpc.net/problem/15680
