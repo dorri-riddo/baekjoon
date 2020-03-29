@@ -434,7 +434,7 @@ https://www.acmicpc.net/problem/15650
 15651번
 https://www.acmicpc.net/problem/15651
 
-15652
+15652번
 https://www.acmicpc.net/problem/15652
 
 15680번
