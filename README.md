@@ -272,7 +272,7 @@ https://www.acmicpc.net/problem/4999
 5337번
 https://www.acmicpc.net/problem/5337
 
-5338q번
+5338번
 https://www.acmicpc.net/problem/5338
 
 5443번
