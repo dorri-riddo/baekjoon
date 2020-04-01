@@ -425,6 +425,9 @@ https://www.acmicpc.net/problem/14681
 14888번
 https://www.acmicpc.net/problem/14888
 
+14889번
+https://www.acmicpc.net/problem/14889
+
 15552번
 https://www.acmicpc.net/problem/15552
 
