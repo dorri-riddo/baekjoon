@@ -191,6 +191,9 @@ https://www.acmicpc.net/problem/2562
 2577번
 https://www.acmicpc.net/problem/2577
 
+2580번
+https://www.acmicpc.net/problem/2580
+
 2581번
 https://www.acmicpc.net/problem/2581
 
@@ -295,6 +298,9 @@ https://www.acmicpc.net/problem/9020
 
 9095번
 https://www.acmicpc.net/problem/9095
+
+9655번
+https://www.acmicpc.net/problem/9655
 
 9663번
 https://www.acmicpc.net/problem/9663
