@@ -101,6 +101,9 @@ https://www.acmicpc.net/problem/1550
 1712번
 https://www.acmicpc.net/problem/1712
 
+1904번
+https://www.acmicpc.net/problem/1904
+
 1913번
 https://www.acmicpc.net/problem/1913
 
