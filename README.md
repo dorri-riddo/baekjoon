@@ -260,6 +260,9 @@ https://www.acmicpc.net/problem/3009
 3028번
 https://www.acmicpc.net/problem/3028
 
+3029번
+https://www.acmicpc.net/problem/30229
+
 3052번
 https://www.acmicpc.net/problem/3052
 
@@ -316,6 +319,9 @@ https://www.acmicpc.net/problem/9020
 
 9095번
 https://www.acmicpc.net/problem/9095
+
+9461번
+https://www.acmicpc.net/problem/9461
 
 9655번
 https://www.acmicpc.net/problem/9655
