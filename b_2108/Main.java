@@ -23,18 +23,17 @@ public class Main {
 		// 산술 평균
 		sb.append(Math.round((float) sum / n) + "\n");		
 		Arrays.sort(array);
-//		array = sort(array, 0, array.length - 1);
 		// 중앙값
 		sb.append(array[(array.length - 1) / 2] + "\n");
 		
 		int cnt = 0;
-		for (int i = 1; i < list.length; i++) {
+		for (int i = 0; i < list.length; i++) {
 			if (list[i] > cnt)
 				cnt = list[i];
 		}
 		int k = 0;
 		int[] mode = new int[2];
-		for (int i = 1; i < list.length; i++) {
+		for (int i = 0; i < list.length; i++) {
 			if (list[i] == cnt) {
 				mode[k] = i - 4000;
 				k++;
@@ -53,28 +52,4 @@ public class Main {
 		
 		System.out.print(sb.toString());
 	}
-	
-	// API 없이  sort 를 구현했을 경우에는.. 시간초과
-//	public static int[] sort(int[] array, int left, int right) {
-//		int i = left;
-//		int j = right;
-//		int pivot = array[(left + right) / 2];
-//		
-//		if (left < right) {
-//			while (i < j) {
-//				while(array[j] > pivot) j--;
-//				while(array[i] < pivot) i++;
-//				while(array[i] == array[j] && i != j) i++;
-//				
-//				int tmp = array[i];
-//				array[i] = array[j];
-//				array[j] = tmp;
-//			}
-//			
-//			array = sort(array, left, i - 1);
-//			array = sort(array, i + 1, right);
-//		}
-//		
-//		return array;
-//	}
 }
