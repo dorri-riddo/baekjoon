@@ -116,8 +116,14 @@ https://www.acmicpc.net/problem/1924
 1929번
 https://www.acmicpc.net/problem/1929
 
+1932번
+https://www.acmicpc.net/problem/1932
+
 1934번
 https://www.acmicpc.net/problem/1934
+
+1977번
+https://www.acmicpc.net/problem/1977
 
 1978번
 https://www.acmicpc.net/problem/1978
