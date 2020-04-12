@@ -182,6 +182,12 @@ https://www.acmicpc.net/problem/2448
 2455번
 https://www.acmicpc.net/problem/2455
 
+2490번
+https://www.acmicpc.net/problem/2490
+
+2506번
+https://www.acmicpc.net/problem/2506
+
 2522번
 https://www.acmicpc.net/problem/2522
 
