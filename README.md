@@ -188,6 +188,9 @@ https://www.acmicpc.net/problem/2475
 2490번
 https://www.acmicpc.net/problem/2490
 
+2501번
+https://www.acmicpc.net/problem/2501
+
 2506번
 https://www.acmicpc.net/problem/2506
 
@@ -442,6 +445,9 @@ https://www.acmicpc.net/problem/10991
 
 10992번
 https://www.acmicpc.net/problem/10992
+
+10995번
+https://www.acmicpc.net/problem/10995
 
 10996번
 https://www.acmicpc.net/problem/10996
