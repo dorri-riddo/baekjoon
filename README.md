@@ -344,8 +344,11 @@ https://www.acmicpc.net/problem/5565
 5598번
 https://www.acmicpc.net/problem/5598
 
-5622번
+5635번
 https://www.acmicpc.net/problem/5622
+
+5622번
+https://www.acmicpc.net/problem/5635
 
 6502번
 https://www.acmicpc.net/problem/6502
@@ -388,6 +391,9 @@ https://www.acmicpc.net/problem/10171
 
 10172번
 https://www.acmicpc.net/problem/10172
+
+10178번
+https://www.acmicpc.net/problem/10178
 
 10250번
 https://www.acmicpc.net/problem/10250
