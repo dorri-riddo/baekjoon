@@ -371,6 +371,9 @@ https://www.acmicpc.net/problem/9085
 9095번
 https://www.acmicpc.net/problem/9095
 
+9295번
+https://www.acmicpc.net/problem/9295
+
 9325번
 https://www.acmicpc.net/problem/9325
 
@@ -400,6 +403,9 @@ https://www.acmicpc.net/problem/10250
 
 10430번
 https://www.acmicpc.net/problem/10430
+
+10569번
+https://www.acmicpc.net/problem/10569
 
 10718번
 https://www.acmicpc.net/problem/10718
