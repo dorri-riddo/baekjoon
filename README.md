@@ -77,6 +77,12 @@ https://www.acmicpc.net/problem/1193
 1212번
 https://www.acmicpc.net/problem/1212
 
+1225번
+https://www.acmicpc.net/problem/1225
+
+1233번
+https://www.acmicpc.net/problem/1233
+
 1292번
 https://www.acmicpc.net/problem/1292
 
