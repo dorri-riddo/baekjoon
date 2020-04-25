@@ -116,6 +116,12 @@ https://www.acmicpc.net/problem/1453
 1463번
 https://www.acmicpc.net/problem/1463
 
+1475번
+https://www.acmicpc.net/problem/1475
+
+1476번
+https://www.acmicpc.net/problem/1476
+
 1546번
 https://www.acmicpc.net/problem/1546
 
