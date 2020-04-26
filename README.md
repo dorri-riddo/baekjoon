@@ -122,11 +122,20 @@ https://www.acmicpc.net/problem/1475
 1476번
 https://www.acmicpc.net/problem/1476
 
+1526번
+https://www.acmicpc.net/problem/1526
+
 1546번
 https://www.acmicpc.net/problem/1546
 
+1547번
+https://www.acmicpc.net/problem/1547
+
 1550번
 https://www.acmicpc.net/problem/1550
+
+1598번
+https://www.acmicpc.net/problem/1598
 
 1712번
 https://www.acmicpc.net/problem/1712
