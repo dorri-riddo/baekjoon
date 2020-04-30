@@ -137,8 +137,14 @@ https://www.acmicpc.net/problem/1550
 1598번
 https://www.acmicpc.net/problem/1598
 
+1676번
+https://www.acmicpc.net/problem/1676
+
 1712번
 https://www.acmicpc.net/problem/1712
+
+1735번
+https://www.acmicpc.net/problem/1735
 
 1904번
 https://www.acmicpc.net/problem/1904
