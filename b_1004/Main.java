@@ -2,7 +2,6 @@ package b_1004;
 
 import java.util.Scanner;
 
-//https://www.acmicpc.net/problem/1004
 public class Main {
 
 	public static void main(String[] args) {
