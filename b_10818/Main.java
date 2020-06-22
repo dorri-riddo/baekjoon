@@ -3,7 +3,6 @@ package b_10818;
 import java.util.Scanner;
 
 public class Main {
-	//https://www.acmicpc.net/problem/10818
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
