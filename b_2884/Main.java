@@ -7,7 +7,6 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class Main {
-	//https://www.acmicpc.net/problem/2884
 	public static void main(String[] args) throws ParseException {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
