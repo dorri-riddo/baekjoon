@@ -1,7 +1,6 @@
 package b_15596;
 
 public class Main {
-
 	public static void main(String[] args) {
 		
 
