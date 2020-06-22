@@ -3,7 +3,6 @@ package b_11720;
 import java.util.Scanner;
 
 public class Main {
-	//https://www.acmicpc.net/problem/11720
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
