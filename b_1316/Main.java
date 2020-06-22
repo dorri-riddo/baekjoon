@@ -35,8 +35,9 @@ public class Main {
 			}
 			
 			//위 판단 여부에서 걸리지 않았더라면 그룹 단어가 맞음
-			if (isTrue)
+			if (isTrue) {
 				count++;
+			}
 		}
 		
 		System.out.print(count);
