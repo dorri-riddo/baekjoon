@@ -2,7 +2,6 @@ package b_2920;
 
 import java.util.Scanner;
 
-//백준 알고리즘 https://www.acmicpc.net/problem/2920
 public class Main {
 
 	public static void main(String[] args) {
