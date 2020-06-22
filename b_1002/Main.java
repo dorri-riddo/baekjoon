@@ -1,5 +1,4 @@
 package b_1002;
-//https://www.acmicpc.net/problem/1002
 
 import java.util.Scanner;
 
