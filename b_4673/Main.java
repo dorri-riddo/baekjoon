@@ -1,7 +1,6 @@
 package b_4673;
 
 public class Main {
-	//https://www.acmicpc.net/problem/4673
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();
 		int[] array = new int[10001];
