@@ -167,6 +167,9 @@ https://www.acmicpc.net/problem/1932
 1934번
 https://www.acmicpc.net/problem/1934
 
+1965번
+https://www.acmicpc.net/problem/1965
+
 1977번
 https://www.acmicpc.net/problem/1977
 
@@ -550,6 +553,9 @@ https://www.acmicpc.net/problem/11022
 
 11050번
 https://www.acmicpc.net/problem/11050
+
+11055번
+https://www.acmicpc.net/problem/11055
 
 11098번
 https://www.acmicpc.net/problem/11098
