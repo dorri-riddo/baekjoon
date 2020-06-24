@@ -287,6 +287,9 @@ https://www.acmicpc.net/problem/2588
 2609번
 https://www.acmicpc.net/problem/2609
 
+2631번
+https://www.acmicpc.net/problem/2631
+
 2675번
 https://www.acmicpc.net/problem/2675
 
@@ -553,6 +556,9 @@ https://www.acmicpc.net/problem/11022
 
 11050번
 https://www.acmicpc.net/problem/11050
+
+11053번
+https://www.acmicpc.net/problem/11053
 
 11055번
 https://www.acmicpc.net/problem/11055
