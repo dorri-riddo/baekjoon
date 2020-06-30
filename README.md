@@ -323,8 +323,11 @@ https://www.acmicpc.net/problem/2748
 2750번
 https://www.acmicpc.net/problem/2750
 
-2751번
+2752번
 https://www.acmicpc.net/problem/2751
+
+2751번
+https://www.acmicpc.net/problem/2752
 
 2753번
 https://www.acmicpc.net/problem/2753
@@ -445,6 +448,9 @@ https://www.acmicpc.net/problem/8958
 
 9020번
 https://www.acmicpc.net/problem/9020
+
+9076번
+https://www.acmicpc.net/problem/9076
 
 9085번
 https://www.acmicpc.net/problem/9085
