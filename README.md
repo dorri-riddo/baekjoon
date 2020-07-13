@@ -381,7 +381,7 @@ https://www.acmicpc.net/problem/3009
 https://www.acmicpc.net/problem/3028
 
 3029번
-https://www.acmicpc.net/problem/30229
+https://www.acmicpc.net/problem/3029
 
 3035번
 https://www.acmicpc.net/problem/3035
